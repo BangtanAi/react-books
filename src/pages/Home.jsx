@@ -5,7 +5,7 @@ import BookItem from "../components/BookItem";
 function Home() {
   const [items, setItems] = React.useState([]);
   React.useEffect(() => {
-    axios.get("http://localhost:3000/books.json").then((response) => {
+    axios.get("https://glittery-meringue-3a431a.netlify.app/books.json").then((response) => {
       setItems(response.data.books);
       console.log(response.data);
     });
