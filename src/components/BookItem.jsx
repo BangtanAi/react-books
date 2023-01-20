@@ -19,7 +19,7 @@ function BookItem({ id, imagePath, types, name, author, price }) {
   };
   return (
     <div className="book-item">
-      <img src={imagePath} alt="" className="book-item__img" />
+      <img src={imagePath} alt={name} className="book-item__img" />
       <span className="book-item__type">{types}</span>
       <p className="book-item__title">{name}</p>
       <p className="book-item__author">{author}</p>
