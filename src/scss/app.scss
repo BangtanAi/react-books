@@ -170,7 +170,7 @@ button {
       display: flex;
       align-items: center;
       width: 20%;
-      justify-content: end;
+      justify-content: flex-end;
       @media screen and (max-width: 750px) {
         width: auto;
       }
