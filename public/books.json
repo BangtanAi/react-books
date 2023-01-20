@@ -1,0 +1,76 @@
+{
+    "books": [
+      {
+        "id": 0,
+        "imagePath": "./assets/images/dostoev.jpg",
+        "name": "Преступление и наказание",
+        "author": "Фёдор Достоевский",
+        "types": "Роман",
+        "price": 1800
+      },
+      {
+        "id": 1,
+        "imagePath": "./assets/images/rut-ozaki.jpg",
+        "name": "Моя рыба будет жить",
+        "author": "Озеки Рут",
+        "types": "Роман",
+        "price": 2500
+      },
+      {
+        "id": 2,
+        "imagePath": "./assets/images/master.png",
+        "name": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "types": "Роман",
+        "price": 1250
+      },
+      {
+        "id": 3,
+        "imagePath": "./assets/images/martin.jpg",
+        "name": "Мартин Иден",
+        "author": "Джек Лондон",
+        "types": "Роман",
+        "price": 2100
+      },
+      {
+        "id": 4,
+        "imagePath": "./assets/images/combini.jpg",
+        "name": "Человек-комбини",
+        "author": "Саяка Мурата",
+        "types": "Роман",
+        "price": 900
+      },
+      {
+        "id": 5,
+        "imagePath": "./assets/images/nauchi.jpeg",
+        "name": "Научи меня умирать",
+        "author": "Мацуо Монро",
+        "types": "Роман",
+        "price": 1950
+      },
+      {
+        "id": 6,
+        "imagePath": "./assets/images/karamasovy.jpg",
+        "name": "Братья Карамазовы",
+        "author": "Федор Достоевский",
+        "types": "Роман",
+        "price": 2300
+      },
+      {
+        "id": 7,
+        "imagePath": "./assets/images/scarlet.jpg",
+        "name": "Унесённые ветром",
+        "author": "Маргарет Митчелл",
+        "types": "Роман",
+        "price": 3100
+      },
+      {
+        "id": 8,
+        "imagePath": "./assets/images/1984.jpg",
+        "name": "1984",
+        "author": "Джордж Оруэлл",
+        "types": "Роман",
+        "price": 1900
+      }
+    ]
+  }
